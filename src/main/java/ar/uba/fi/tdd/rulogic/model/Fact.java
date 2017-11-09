@@ -1,6 +1,5 @@
 package ar.uba.fi.tdd.rulogic.model;
 
-import org.mockito.cglib.core.CollectionUtils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
